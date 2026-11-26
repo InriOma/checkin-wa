@@ -1,0 +1,39 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "WABA_1001",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "+525500000001",
+              "phone_number_id": "PHONE_CENTRAL_001"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Ana Garcia"
+                },
+                "wa_id": "5215512345678"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5215512345678",
+                "id": "wamid.HBgLNTIxNTUxMjM0NTY3OBUCABIYFjNFQjA1RkM5RjA=",
+                "timestamp": "1732560000",
+                "type": "text",
+                "text": {
+                  "body": "VINCULAR ACME01 EMP001"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

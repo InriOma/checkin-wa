@@ -1,0 +1,31 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "WABA_UNKNOWN",
+      "changes": [
+        {
+          "field": "messages",
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "+525599999999",
+              "phone_number_id": "PHONE_UNKNOWN_999"
+            },
+            "messages": [
+              {
+                "from": "5215512345678",
+                "id": "wamid.UNKNOWN_001",
+                "timestamp": "1732560200",
+                "type": "text",
+                "text": {
+                  "body": "Hola"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
